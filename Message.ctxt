@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=from\ to\ message\ creation
+comment1.target=Message(java.util.UUID,\ java.util.UUID,\ java.lang.String,\ long)
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WebServer
+comment1.params=server
+comment1.target=WebServer(Server)
+comment2.params=input\ id
+comment2.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment3.params=input\ id
+comment3.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment4.params=output\ id\ data
+comment4.target=void\ out(java.io.ObjectOutputStream,\ int,\ java.lang.String[])
+comment5.params=
+comment5.target=void\ main()
+numComments=6

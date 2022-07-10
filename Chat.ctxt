@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Chat
+comment1.params=ucid\ user1\ read1\ user2\ read2\ messages
+comment1.target=Chat(java.util.UUID,\ java.util.UUID,\ int,\ java.util.UUID,\ int,\ java.util.ArrayList)
+comment2.params=
+comment2.target=void\ sortMessages()
+numComments=3

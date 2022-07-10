@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Util
+comment1.params=bytes
+comment1.target=java.lang.String\ encode16(byte[])
+comment2.params=input
+comment2.target=java.lang.String\ encode64(byte[])
+comment3.params=input
+comment3.target=byte[]\ decode64(java.lang.String)
+numComments=4
